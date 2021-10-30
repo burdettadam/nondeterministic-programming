@@ -58,3 +58,5 @@ programs to continue to optimize optimal code.
 - replication
   - code must replicate itself with new changes from previous programs.  Replication takes a list of
 source code and notes from each source code executions. Generating new code composed of itself and other programs.
+
+[Central Dogma of Genetic Evolution](notes/geneticAlgorithmObservations.md)
